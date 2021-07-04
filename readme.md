@@ -2,8 +2,8 @@
 ## Ecommerce Web Scrapping website to make your shopping easy.
 
 ## Features - 
-### You can Save Products from Amazon and Flipkart.
-### When price drops we will notify you via E-mail.
+You can Save Products from Amazon and Flipkart.
+When price drops we will notify you via E-mail.
 
 ## Screenshots - 
 
